@@ -26,6 +26,11 @@ Installation
 2. Unpack it in one folder and put it in your Minetest mods folder.  
 3. Enable it in the Minetest.  
 
+Depends
+-------
+
+* default
+
 Controls
 --------
 
