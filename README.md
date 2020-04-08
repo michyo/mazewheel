@@ -67,7 +67,7 @@ Recipe
 Version History
 ---------------
 
-####1.00 (2020/04/08):
+#### 1.00 (2020/04/08):
 
 * Initial release
 
