@@ -8,8 +8,8 @@ Mazewheel is a mod that adds car, bike and bus to the Minetest game.
 You can ride them and run around the world.  
 
 This is a fork by michyo from azewheel (by azekill_DIABLO).  
-(GitHub repository: [https://github.com/michyo/mazewheel](https://github.com/michyo/mazewheel))  
-(GitHub of azewheel: [https://github.com/azekillDIABLO/azewheel](https://github.com/azekillDIABLO/azewheel))  
+(Mazewheel GitHub repository: [https://github.com/michyo/mazewheel](https://github.com/michyo/mazewheel))  
+(GitHub of original azewheel: [https://github.com/azekillDIABLO/azewheel](https://github.com/azekillDIABLO/azewheel))  
 
 It has been modified so that you can use them everywhere, like on the dirt, sand, etc.  
 And adjusted to work correctly in Minetest version 5.2.0.  
