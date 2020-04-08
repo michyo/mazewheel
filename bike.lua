@@ -229,8 +229,8 @@ minetest.register_craftitem("mazewheel:bike", {
 minetest.register_craft({
 	output = "mazewheel:bike",
 	recipe = {
-		{"", "",""},
-		{"default:steel", "",           "default:steel"},
-		{"default:steel", "default:mese", "default:steel"},
+		{"default:steel_ingot", "",""},
+		{"default:steel_ingot", "",           "default:steel_ingot"},
+		{"default:steel_ingot", "default:mese", "default:steel_ingot"},
 	},
 })

@@ -47,27 +47,27 @@ Recipe
 
 #### Car (mazewheel:car)
 
-    ""             , ""            , ""  
-    "default:steel", ""            , "default:steel"  
-    "default:steel", "default:mese", "default:steel"  
+    ""                   , ""            , ""  
+    "default:steel_ingot", ""            , "default:steel_ingot"  
+    "default:steel_ingot", "default:mese", "default:steel_ingot"  
 
 #### Bike (mazewheel:bike)
 
-    ""             , ""            , ""  
-    "default:steel", ""            , "default:steel"  
-    "default:steel", "default:mese", "default:steel"  
+    "default:steel_ingot", ""            , ""  
+    "default:steel_ingot", ""            , "default:steel_ingot"  
+    "default:steel_ingot", "default:mese", "default:steel_ingot"  
 
 #### Bus (mazewheel:bus)
 
-    "default:steel", "default:steel", "default:steel"  
-    "default:steel", ""             , "default:steel"  
-    "default:steel", "default:mese" , "default:steel"  
+    "default:steel_ingot", "default:steel_ingot", "default:steel_ingot"  
+    "default:steel_ingot", ""                   , "default:steel_ingot"  
+    "default:steel_ingot", "default:mese"       , "default:steel_ingot"  
 
 #### Night Shade (mazewheel:neonbike)
 
-    ""             , ""            , ""  
-    "default:steel", ""            , "default:steel"  
-    "default:steel", "default:mese", "default:steel"  
+    ""                   , ""                   , ""  
+    "default:steel_ingot", "default:steel_ingot", "default:steel_ingot"  
+    "default:steel_ingot", "default:mese"       , "default:steel_ingot"  
 
 Version History
 ---------------
